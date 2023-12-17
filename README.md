@@ -22,7 +22,7 @@ The benefits of minified code are numerous:
 
 Currently, Minification libraries are available for these popular languages:
 
-* **Lua:**
+* **Lua**
 
 **Getting Started:**
 
